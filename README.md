@@ -2,14 +2,6 @@
 ![NH](https://github.com/KennethNweke/NetworkHardening/assets/88651458/e312b440-647a-4155-8c35-fb4cf460206b)
 
 ## Objective
-
-
-
-
-
-
-
-
 As a part of your end year networking project, you are required to design and implement Vic Modern Hotel network. The hotel has three floors; in the first floor there three departments (Reception, store and Logistics), in the second floor there are three departments (Finance, HR and Sales/Marketing), while the third floor hosts the IT and Admin. Therefore, the following are part of the considerations during the design and implementation;
 There should be three routers connecting each floor (all placed in the server room in IT department).
 All routers should be connected to each other using serial DCE cable.
@@ -24,15 +16,13 @@ Each department is expected to be in different VLAN with the following details;
   - Reception- VLAN 80, Network of 192.168.8.0/24
   - Store- VLAN 70, Network of 192.168.7.0/24
   - Logistics- VLAN 60, Network of 192.168.6.0/24
-
-
-2nd Floor;
-- Finance- VLAN 50, Network of 192.168.5.0/24
-- HR- VLAN 40, Network of 192.168.4.0/24
-- Sales- VLAN 30, Network of 192.168.3.0/24
-3rd Floor;
-- Admin- VLAN 20, Network of 192.168.2.0/24
-- IT- VLAN 10, Network of 192.168.1.0/24
+- **2nd Floor**:
+  - Finance- VLAN 50, Network of 192.168.5.0/24
+  - HR- VLAN 40, Network of 192.168.4.0/24
+  - Sales- VLAN 30, Network of 192.168.3.0/24
+- **3rd Floor**:
+  - Admin- VLAN 20, Network of 192.168.2.0/24
+  - IT- VLAN 10, Network of 192.168.1.0/24
 
 Use OSPF as the routing protocol to advertise routes.
 All devices in the network are expected to obtain IP address dynamically with their respective router configured as the DHCP server.

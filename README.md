@@ -38,59 +38,23 @@ In IT department, add PC called Test-PC to port fa0/1 and use it to test remote 
 Configure port security to IT-dept switch to allow only Test-PC to access port fa0/1 (use sticky method to obtain mac-address with violation mode of shutdown.)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Topology
+The network topology below satisfy the user requirements above and everything is verified, tested and working fine. You can get source file (Packet Tracer File) in the resources links.
 ![image](https://github.com/KennethNweke/Hotel-System-Network-Design/assets/88651458/3143e800-1910-44ee-a37e-1e28bbcced7e)
 
-
-
-
-
-
-
-
-
-
-## Skills Learned
-
-- **Vulnerability Assessment**:
-  - Conducting thorough vulnerability scans and preliminary tests on commandline.
-  - Analyzing scan results to identify and prioritize network vulnerabilities.
-
-
-
-## Tools Used
-- Network Simulation
-- Packet Tracer
-
-
+## Technologies Implemented
+- Creating a network topology using Cisco Packet Tracer.
+- Hierarchical Network Design.
+- Connecting Networking devices with Correct cabling.
+- Creating VLANs and assigning ports VLAN numbers.
+- Subnetting and IP Addressing.
+- Configuring Inter-VLAN Routing (Router on a stick).
+- Configuring DHCP Server (Router as the DHCP Server).
+- Configuring SSH for secure Remote access.
+- Configuring switchport security or Port-Security on the switches.
+- Configuring WLAN or wireless network (Cisco Access Point).
+- Host Device Configurations.
+- Test and Verifying Network Communication.
 
 ## Resources
 Full PT File and Documentation below.

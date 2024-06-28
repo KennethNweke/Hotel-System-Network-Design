@@ -40,7 +40,7 @@ Configure port security to IT-dept switch to allow only Test-PC to access port f
 
 ## Topology
 The network topology below satisfy the user requirements above and everything is verified, tested and working fine. You can get source file (Packet Tracer File) in the resources links.
-![image](https://github.com/KennethNweke/Hotel-System-Network-Design/assets/88651458/3143e800-1910-44ee-a37e-1e28bbcced7e)
+![image](https://github.com/KennethNweke/Hotel-System-Network-Design/assets/88651458/17caf6b5-f9e0-46eb-b2cc-0f534e116a3d)
 
 ## Technologies Implemented
 - Creating a network topology using Cisco Packet Tracer.

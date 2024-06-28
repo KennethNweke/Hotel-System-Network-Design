@@ -1,5 +1,5 @@
 # Hotel System Network Design
-![NH](https://github.com/KennethNweke/NetworkHardening/assets/88651458/e312b440-647a-4155-8c35-fb4cf460206b)
+![HN-01](https://github.com/KennethNweke/Hotel-System-Network-Design/assets/88651458/93be82bf-4533-469e-bf04-81a1719d264c)
 
 ## Objective
 As a part of your end year networking project, you are required to design and implement Vic Modern Hotel network. The hotel has three floors; in the first floor there three departments (Reception, store and Logistics), in the second floor there are three departments (Finance, HR and Sales/Marketing), while the third floor hosts the IT and Admin. Therefore, the following are part of the considerations during the design and implementation;

@@ -67,6 +67,7 @@ Configure port security to IT-dept switch to allow only Test-PC to access port f
 
 
 
+![image](https://github.com/KennethNweke/Hotel-System-Network-Design/assets/88651458/3143e800-1910-44ee-a37e-1e28bbcced7e)
 
 
 
@@ -93,6 +94,5 @@ Configure port security to IT-dept switch to allow only Test-PC to access port f
 
 ## Resources
 Full PT File and Documentation below.
-  - [Kenneth Nweke - Network Hardening PT File](https://drive.google.com/file/d/1ZIx2nJbQ4dz31UHAGyo1UcuZNtdKV9jN/view?usp=sharing)
-  -  [Kenneth Nweke - Network Hardening.pdf](https://github.com/user-attachments/files/15987380/Kenneth.Nweke.-.Network.Hardening.pdf)
+  - [Kenneth Nweke - Network Hardening PT File](https://drive.google.com/file/d/1ZJwp-Z3rRDbh8n58imAnzo5Y1MMunBJO/view?usp=sharing)
   -  [Config.txt](https://github.com/user-attachments/files/16028626/Config.txt)

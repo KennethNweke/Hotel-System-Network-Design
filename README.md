@@ -21,7 +21,7 @@ Each department is expected to be in different VLAN with the following details;
 
 ## IP and VLAN Scheme 
 - **1st Floor**:
-- Reception- VLAN 80, Network of 192.168.8.0/24
+  - Reception- VLAN 80, Network of 192.168.8.0/24
 - Store- VLAN 70, Network of 192.168.7.0/24
 - Logistics- VLAN 60, Network of 192.168.6.0/24
 2nd Floor;

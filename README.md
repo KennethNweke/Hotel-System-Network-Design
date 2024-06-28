@@ -18,7 +18,9 @@ Each floor is expected to have one switch (placed in the respective floor).
 Each floor is expected to have WIFI networks connected to laptops and phones.
 Each department is expected to have a printer.
 Each department is expected to be in different VLAN with the following details;
-1st Floor;
+
+## IP and VLAN Scheme 
+- **1st Floor**:
 - Reception- VLAN 80, Network of 192.168.8.0/24
 - Store- VLAN 70, Network of 192.168.7.0/24
 - Logistics- VLAN 60, Network of 192.168.6.0/24

@@ -57,6 +57,6 @@ The network topology below satisfy the user requirements above and everything is
 - Test and Verifying Network Communication.
 
 ## Resources
-Full PT File and Documentation below.
+Full PT File and configuration below.
   - [Kenneth Nweke - Network Hardening PT File](https://drive.google.com/file/d/1ZJwp-Z3rRDbh8n58imAnzo5Y1MMunBJO/view?usp=sharing)
   -  [Config.txt](https://github.com/user-attachments/files/16028626/Config.txt)
